@@ -1,0 +1,2 @@
+alias venv="/bin/bash --rcfile ${HOME}/openstack/.venv/bin/activate"
+alias pastebin="gist-paste -s -p -o"
