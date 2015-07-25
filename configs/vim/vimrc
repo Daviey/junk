@@ -1,0 +1,5 @@
+nnoremap Q gq}
+match ErrorMsg '\s\+$'
+set spell spelllang=en_us
+au FileType gitcommit set tw=60
+au FileType rst set tw=79

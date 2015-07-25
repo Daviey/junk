@@ -1,0 +1,18 @@
+[user]
+	email = email@daviey.com
+	name = Dave Walker (Daviey)
+[gitreview]
+	username = davewalker
+[core]
+	editor = vim
+
+[url "ssh://git@github.com/"]
+insteadOf = gh:
+
+[url "ssh://git@github.com/"]
+insteadOf = gh:~
+
+[url "https://git.openstack.org/"]
+insteadOf = os:
+[push]
+	default = simple
