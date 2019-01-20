@@ -14,5 +14,9 @@ insteadOf = gh:~
 
 [url "https://git.openstack.org/"]
 insteadOf = os:
+
+[url "ssh://daviey-guest@git.debian.org/git/"]
+insteadOf = debian:
+
 [push]
 	default = simple
